@@ -21,7 +21,7 @@
         <druid-spring-boot-starter.version>1.1.10</druid-spring-boot-starter.version>
         <mysql-connector-java.version>5.1.37</mysql-connector-java.version>
         <lombok.version>1.18.8</lombok.version>
-        <fastjson.version>1.2.71</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
